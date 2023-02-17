@@ -1,6 +1,10 @@
-a=0
-b=10
-while a < b:
-    print('Hello World')
-    a = a + 1
+print('Hello Uncle')
+
+print('Hello Somchai')
+
+print('Hello Github')
+
+friend = ['Loong','Pa Lek','Loong Dam']
+
+print(friend[0])
 
